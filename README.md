@@ -1,4 +1,4 @@
-# Rust Image Download Program
+# Rust Image Download 
 This is a rust project that can download an image from a url given by the user, and save it to the path given by the user.  
 
 # Project Overview 
